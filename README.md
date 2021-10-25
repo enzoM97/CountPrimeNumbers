@@ -6,4 +6,4 @@ Prime numbers counter with 2 versions
 Java version: 1.8 <br />
 IDE: Eclipse
 
-Download the project and open it with Eclipse, then run the class ConsumerProducer.java
+Download the project and open it with Eclipse. Then run the class PrimeCounter for the secuential version and PrimeCounter2 for the concurrent version.
